@@ -52,6 +52,7 @@ The system prints:
 ## Personal Note
 
 While working on this project, I had some difficulty understanding how design patterns work. At first, I also forgot to make the constructor private in the AppConfig class, but I fixed it later. After finishing the project, I understood how Factory and Singleton patterns make the code more organized.
+
 ---
 
 ## Conclusion
