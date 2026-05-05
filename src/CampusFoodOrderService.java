@@ -20,7 +20,7 @@ public class CampusFoodOrderService {
 
         CampusFoodOrderService service = new CampusFoodOrderService();
 
-        service.placeOrder("Baran", "Chicken Sandwich", "EMAIL");
+        service.placeOrder("Eylul", "Chicken Sandwich", "EMAIL");
         service.placeOrder("Rabia", "Vegetarian Pizza", "SMS");
         service.placeOrder("Sanslı", "Coffee", "PUSH");
     }
