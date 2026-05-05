@@ -33,7 +33,7 @@ Using Singleton ensures that only one configuration object exists and is used ev
 1. Open the project in IntelliJ IDEA
 2. Run the CampusFoodOrderService class
 3. Check the console output
-
+4. ![output](IMG_0166.JPG)
 ---
 
 The system prints:
