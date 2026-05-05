@@ -1,5 +1,7 @@
 # Campus Food Order System
 
+Prepared by: Rabia Günen
+
 ## Project Description
 This is a simple Java project that simulates a campus food ordering system. Students place orders and the system sends notifications (Email, SMS, Push).
 
@@ -47,10 +49,9 @@ The system prints:
 - Notification messages (Email, SMS, Push)
 
 ---
-
 ## Personal Note
-While working on this project, I first struggled to understand how to separate object creation from the main logic. After implementing the Factory Pattern, I realized the code became much more organized. The Singleton Pattern also helped me manage shared data more clearly.
 
+While working on this project, I had some difficulty understanding how design patterns work. At first, I also forgot to make the constructor private in the AppConfig class, but I fixed it later. After finishing the project, I understood how Factory and Singleton patterns make the code more organized.
 ---
 
 ## Conclusion
